@@ -1,0 +1,8 @@
+div {
+    background-color: lightblue;
+    border-radius: 10px;
+    border-left-color: brown;
+    border-left-style: dashed;
+    border-left-width: 10px;
+    padding: 10px;
+}
