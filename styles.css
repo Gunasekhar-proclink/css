@@ -1,8 +1,21 @@
 div {
     background-color: lightblue;
-    border-radius: 10px;
-    border-left-color: brown;
-    border-left-style: dashed;
-    border-left-width: 10px;
-    padding: 10px;
+    border-radius: 15px;
+    border-left-color: blue;
+    border-left-style: solid;
+    border-left-width: 9px;
+    padding: 26px;
+    margin: 40px;
+}
+
+h4 {
+    font-weight: 100px;
+}
+
+img {
+    width: 800px
+}
+
+p {
+    font-weight: 100;
 }
